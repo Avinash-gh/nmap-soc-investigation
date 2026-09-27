@@ -1,0 +1,10 @@
+# Nmap 7.99 scan initiated Sat Sep 26 17:44:40 2026 as: /usr/lib/nmap/nmap --privileged -oN ./basic_tcp_port_scan.txt 10.0.x.x
+Nmap scan report for 10.0.x.x
+Host is up (0.00094s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+5357/tcp open  wsdapi
+5985/tcp open  wsman
+MAC Address: 08:00:27:C7:x:x (Oracle VirtualBox virtual NIC)
+
+# Nmap done at Sat Sep 26 17:44:50 2026 -- 1 IP address (1 host up) scanned in 10.72 seconds
