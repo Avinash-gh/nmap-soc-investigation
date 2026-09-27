@@ -1,0 +1,5 @@
+# Nmap 7.99 scan initiated Sat Sep 26 17:31:48 2026 as: /usr/lib/nmap/nmap --privileged -sn -oN ./host_discovery.txt 10.0.2.6
+Nmap scan report for 10.0.x.x
+Host is up (0.00029s latency).
+MAC Address: 08:00:27:C7:x:x (Oracle VirtualBox virtual NIC)
+# Nmap done at Sat Sep 26 17:31:49 2026 -- 1 IP address (1 host up) scanned in 0.59 seconds
